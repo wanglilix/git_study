@@ -6,3 +6,4 @@ Git remote fetch.
 Git push test.
 Git branch test.
 Creating a new branch is quick and simple.
+Add merge.
