@@ -5,4 +5,4 @@ Git tracks changes of files.
 Git remote fetch.
 Git push test.
 Git branch test.
-createing a new branch is quick & simple.
+Creating a new branch is quick and simple.
