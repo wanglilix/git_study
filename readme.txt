@@ -9,3 +9,4 @@ Creating a new branch is quick and simple.
 Add merge.
 add with ff.
 bug fix.
+master rebase.
